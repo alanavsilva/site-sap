@@ -9,7 +9,17 @@
     background-color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: blue;
+    font-size: 15px;
 }
 .img_primeiro_cima{
-    height: 250px;
+    height: 200px;
+}
+
+p{
+background-color: blue;
+color: white;
+font-size: 10px;
+display: inline-block;
+padding: 10px;
+border-radius: 8px;
 }
