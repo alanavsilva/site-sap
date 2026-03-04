@@ -1,11 +1,88 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #cima{
     display: flex;
     background-color: rgb(183, 214, 255);
     margin: 40px;
     border-radius: 8px;
 }
-
 
 .primeiro_cima{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -29,6 +106,12 @@ border-radius: 8px;
 }
 
 .primeiro_cima2{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.primeiro_cima2 p{
 background-color: blue;
 color: white;
 font-size: 15px;
